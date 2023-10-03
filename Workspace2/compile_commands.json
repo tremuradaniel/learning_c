@@ -1,5 +1,0 @@
-[{
-  "file": "D:\\_coding\\learning\\c\\udemy\\Workspace2\\Project1\\main.c",
-  "directory": "D:\\_coding\\learning\\c\\udemy\\Workspace2\\Project1",
-  "command": "C:/cygwin64/bin/gcc.exe -c D:\\_coding\\learning\\c\\udemy\\Workspace2\\Project1\\main.c -o D:\\_coding\\learning\\c\\udemy\\Workspace2\\Project1\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
- }]
