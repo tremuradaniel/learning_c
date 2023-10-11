@@ -2,6 +2,13 @@
 
 int main(int argc, char **argv)
 {
-	printf("Default project!\n");
-	return 0;
+	int myFavNumber = 0;
+    
+    printf("Please enter your fav number \n");
+    scanf("%d", &myFavNumber);
+    
+    printf("Your fav number is: %d\n", myFavNumber);
+    
+    
+    return 0;
 }
