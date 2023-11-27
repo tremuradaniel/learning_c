@@ -10,4 +10,8 @@
   "file": "D:\\_coding\\learning\\c\\udemy\\Workspace3\\Project1\\enums.h",
   "directory": "D:\\_coding\\learning\\c\\udemy\\Workspace3\\Project1",
   "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c D:\\_coding\\learning\\c\\udemy\\Workspace3\\Project1\\enums.h -o D:\\_coding\\learning\\c\\udemy\\Workspace3\\Project1\\enums.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\_coding\\learning\\c\\udemy\\Workspace3\\Project1\\convertor.h",
+  "directory": "D:\\_coding\\learning\\c\\udemy\\Workspace3\\Project1",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c D:\\_coding\\learning\\c\\udemy\\Workspace3\\Project1\\convertor.h -o D:\\_coding\\learning\\c\\udemy\\Workspace3\\Project1\\convertor.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]

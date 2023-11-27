@@ -3,6 +3,7 @@
   <Description/>
   <Dependencies/>
   <VirtualDirectory Name="src">
+    <File Name="convertor.h"/>
     <File Name="enums.h"/>
     <File Name="main.c"/>
   </VirtualDirectory>
